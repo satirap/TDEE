@@ -1,0 +1,24 @@
+{
+  "foods": [
+    {
+      "id": "nam-tao-hoo-wan-0-mai-sai-kruang",
+      "name": "น้ำเต้าหู้หวาน 0 ไม่ใส่เครื่อง",
+      "name_en": "Sweet soy milk (sweetness level 0, no toppings)",
+      "serving": {
+        "amount": 16,
+        "unit": "oz",
+        "ml": 480
+      },
+      "nutrition": {
+        "calories_kcal": 160,
+        "protein_g": 14,
+        "fat_g": 8,
+        "saturated_fat_g": 1,
+        "carbs_g": 8,
+        "fiber_g": 2,
+        "sugar_g": 2
+      },
+      "notes": "น้ำตาลตามธรรมชาติ ~1.5-2 ก. ไม่เติมน้ำตาล / Natural sugar only, no added sugar"
+    }
+  ]
+}
